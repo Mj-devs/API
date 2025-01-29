@@ -11,7 +11,7 @@ app.get("/", (req, res) => {
   res.json({
     email: "developersholotan@gmailcom",
     current_datetime: new Date().toISOString(),
-    github_url: "https://github.com/Mj-devs/your-repo",
+    github_url: "https://github.com/Mj-devs/Backend-dev",
   });
 });
 
