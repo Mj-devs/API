@@ -38,7 +38,7 @@ Ensure you have the following installed:
 ### **Base URL**
 When deployed, the API will be accessible at:
 ```
-[https://api-ten-delta-27.vercel.app/]
+https://api-ten-delta-27.vercel.app/
 ```
 
 ### **Endpoint**
